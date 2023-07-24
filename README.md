@@ -1,14 +1,14 @@
 # rusty-rays
-The new way to garden
+Modern lawn mowing 🌱
 
 # purpose
-To revolutionize property maintenance using digital technology.
+To revolutionize lawn mowing using digital technology.
 
 # mission
-To provide affordable, reliable, and quality property maintenance.
+To provide affordable, reliable, and quality lawn mowing.
 
 # vision
-Start small by mowing lawns and expand from Melbourne, Australia, and beyond.
+To automatically allocate gardeners to lawn mowing jobs and remove the need for a call centre.
 
 # goals
 - Get one gardener
