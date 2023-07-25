@@ -26,5 +26,5 @@ To be the #1 trusted lawn mowing service.
 # tech stack
 - Google Cloud Plaform (GCP)
 - Google Datastore
-- Google Functions (.net)
-- React.js
+- Google Functions (.net or rust)
+- next.js (react)
