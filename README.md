@@ -2,13 +2,21 @@
 Modern lawn mowing 🌱
 
 # purpose
-To revolutionize lawn mowing using digital technology.
+To maintain Australia's lawns.
 
 # mission
-To provide affordable, reliable, and quality lawn mowing.
+To revolutionize the industry using technology.
 
 # vision
-To automatically allocate gardeners to lawn mowing jobs and remove the need for a call centre.
+To be the #1 trusted lawn mowing service.
+
+# values
+- Affordable
+- Reliable
+- Accessible
+- Quality
+- Dedicated
+- Customer Service
 
 # goals
 - Get one gardener
