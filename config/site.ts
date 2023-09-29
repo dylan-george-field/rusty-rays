@@ -3,7 +3,6 @@ export type SiteConfig = typeof siteConfig;
 export const siteConfig = {
 	name: "rusty rays",
 	description: "Make beautiful websites regardless of your design experience.",
-	navItems: [],
 	navMenuItems: [
 		{
 			label: "Profile",

@@ -60,25 +60,9 @@ export const Navbar = () => {
 						<p className="font-bold text-inherit">rusty rays</p>
 					</NextLink>
 				</NavbarBrand>
-				<ul className="hidden lg:flex gap-4 justify-start ml-2">
-					{siteConfig.navItems.map((item) => (
-						<NavbarItem key={item.href}>
-							<NextLink
-								className={clsx(
-									linkStyles({ color: "foreground" }),
-									"data-[active=true]:text-primary data-[active=true]:font-medium"
-								)}
-								color="foreground"
-								href={item.href}
-							>
-								{item.label}
-							</NextLink>
-						</NavbarItem>
-					))}
-				</ul>
 			</NavbarContent>
 			
-			<NavbarContent justify="center">Find gardener's near you!</NavbarContent>
+			<NavbarContent justify="center">Find gardener&apos;s near you!</NavbarContent>
 			
 			<NavbarContent
 				className="hidden sm:flex basis-1/5 sm:basis-full"
