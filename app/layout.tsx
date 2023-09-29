@@ -31,7 +31,9 @@ export default function RootLayout({
 }) {
 	return (
 		<html lang="en" suppressHydrationWarning>
-			<head />
+			<head>
+				<title>rusty rays</title>
+			</head>
 			<body
 				className={clsx(
 					"min-h-screen bg-background font-sans antialiased",
