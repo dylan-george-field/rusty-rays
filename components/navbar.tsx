@@ -62,7 +62,7 @@ export const Navbar = () => {
 				</NavbarBrand>
 			</NavbarContent>
 			
-			<NavbarContent justify="center">Find gardener&apos;s near you!</NavbarContent>
+			<NavbarContent justify="center">Find someone to mow your lawns near you!</NavbarContent>
 			
 			<NavbarContent
 				className="hidden sm:flex basis-1/5 sm:basis-full"
