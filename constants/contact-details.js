@@ -3,5 +3,5 @@ export const ContactDetails = {
     "company": "VIP Lawns & Gardens",
     "mobile": "0402 635 259",
     "location": "Bayside",
-    "photo": ""
+    "photo": "/images/russell-gardening.jpg"
 }

@@ -17,7 +17,7 @@ export default function Home() {
 					<Image
 						alt="Card background"
 						className="object-cover rounded-xl"
-						src="/images/russell-gardening.jpg"
+						src={ContactDetails.photo}
 						width={270}
 					/>
 				</CardBody>
