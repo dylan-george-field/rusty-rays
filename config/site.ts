@@ -1,8 +1,8 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-	name: "rusty rays",
-	description: "Make beautiful websites regardless of your design experience.",
+	name: "Rusty Rays",
+	description: "Discover Rusty Rays, your go-to Aussie lawn care platform! Find locals or mow lawns yourself and earn cash. Easy, trusted, and rewarding. Get started now!",
 	navMenuItems: [
 		{
 			label: "Profile",
