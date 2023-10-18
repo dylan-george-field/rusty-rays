@@ -32,7 +32,7 @@ export default function RootLayout({
 	return (
 		<html lang="en" suppressHydrationWarning>
 			<head>
-				<title>rusty rays</title>
+				<title>Rusty Rays - Let's Get Mowing</title>
 			</head>
 			<body
 				className={clsx(
